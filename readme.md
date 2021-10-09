@@ -324,7 +324,7 @@
 
 </div>
 
-- [The Theorist Gateway Toolbox](hhttps://help.thetheoristgateway.com/pages/toolbox) \- Slides describing techniques and tools for hiding and extracting information, the ARG itself is very good too.
+- [The Theorist Gateway Toolbox](https://help.thetheoristgateway.com/pages/toolbox) \- Slides describing techniques and tools for hiding and extracting information, the ARG itself is very good too.
 - [ae27ff](https://ae27ff.meme.tips) \- a set of levels including simple ciphers, steganography, different types of encodings, and familiarity with internet resources.
 
 <div align="center" style="font-size: 25px;">
