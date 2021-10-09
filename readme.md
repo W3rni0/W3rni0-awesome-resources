@@ -9,7 +9,7 @@
 - [What is CTF?](https://www.youtube.com/watch?v=8ev9ZX9J45A) \- A video by LiveOverFlow introducing the idea of security Capture The Flag competitions.
 - [CTFtime](https://ctftime.org/) \- A site all about CTFs, with information on CTF teams, CTF ratings, CTF writeups, CTF archive and upcoming CTFs.
 - [CTF 101](https://ctf101.org/) \- A guide for techniques, thought processes, and methodologies to succeed in CTF competitions.
-- [Trail of Bits' CTF guide](https://trailofbits.github.io/) \- A simple guide for getting into the CTF world and cyber security.
+- [Trail of Bits' CTF guide](https://trailofbits.github.io/ctf) \- A simple guide for getting into the CTF world and cyber security.
 - [CTFlearn](https://ctflearn.com/) \- An ethical hacking platform that enables tens of thousands to learn, practice, and compete.
 - [PicoCTF](https://picoctf.org/) \- Popular CTF created by students at CMU.
 - [RingZer0 CTF](https://ringzer0ctf.com/) \- RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
@@ -22,7 +22,6 @@
 - [How to make boot2root machines](https://fieldraccoon.github.io/posts/How-to-make-Boot2Root-machines) \- An article showcasing the setup process for a boot2root machine.
 - [pwning/docs](https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown) \- PPP's tips and suggestions for running a CTF
 - [Kali Linux CTF Blueprints](https://www.amazon.com/Kali-Linux-Blueprints-Cameron-Buchanan/dp/1783985984) \- A book detailing how to create CTF challenges.
-- [Box Creation Tutorial by Enox](https://github.com/CsEnox/kamikakushi/blob/master/Box_Creation_Tutorial_by_Enox.pdf)
 - [Tips and Tactics for Creating Your Own CTF Event](https://dzone.com/articles/tips-and-tactics-for-creating-your-own-capture-the)
 
 ## Wargames and Challenge Sites
